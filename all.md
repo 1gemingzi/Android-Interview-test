@@ -1,6 +1,6 @@
 # 安卓应用
 ## ui  
-1. 能讲一讲自定义控件吗？
+1. [能讲一讲自定义控件吗？](https://github.com/1gemingzi/Android-Interview-test/issues/1)
 2. activity的生命周期是什么？
 3. recycleview的缓存机制？
 4. view的事件分发？
