@@ -18,6 +18,7 @@
     + 压缩算法
     + 加载大图片
 8. [动画的种类？区别？](https://github.com/1gemingzi/Android-Interview-test/issues/9)
+9. [activity a跳转b的生命周期变化？按下back键生命周期变化？](https://github.com/1gemingzi/Android-Interview-test/issues/20)
 
 ## 内存泄漏
 1. [activity使用handler有什么样的问题？解决方法？](https://github.com/1gemingzi/Android-Interview-test/issues/10)
@@ -37,95 +38,100 @@
 5. [绘制优化](https://github.com/1gemingzi/Android-Interview-test/issues/19)
 
 ## 网络框架对比
-1. okhttp
-2. retrofit
-3. volley
+1. [okhttp的整体流程、使用到的设计模式；拦截器的使用和原理](https://github.com/1gemingzi/Android-Interview-test/issues/21)
+2. [retrofit的使用和优缺点](https://github.com/1gemingzi/Android-Interview-test/issues/22)
+3. [volley的使用]](https://github.com/1gemingzi/Android-Interview-test/issues/23)
 
 ## 图片加载框架
-1. glide
-2. fresco
+1. [glide 使用和优缺点](https://github.com/1gemingzi/Android-Interview-test/issues/24)
+2. [fresco 使用和优缺点](https://github.com/1gemingzi/Android-Interview-test/issues/25)
 
 ## 数据库处理框架
-1. greendao
+1. [greendao 使用和优缺点](https://github.com/1gemingzi/Android-Interview-test/issues/26)
 
 ## 数据存储
-1. contentprovider
-2. sharepreference
+1. [contentprovider](https://github.com/1gemingzi/Android-Interview-test/issues/27)
+2. [sharepreference](https://github.com/1gemingzi/Android-Interview-test/issues/28)
 
 ## 线程通信与后台服务
-1. handler的机制？
-    + 子线程使用handler机制需要注意什么
-    + 
-2. intentservicce
-3. asyncTask
+1. [handler的机制？](https://github.com/1gemingzi/Android-Interview-test/issues/29)
+    + [子线程使用handler机制需要注意什么](https://github.com/1gemingzi/Android-Interview-test/issues/30)
+2. [intentservicce](https://github.com/1gemingzi/Android-Interview-test/issues/31)
+3. [asyncTask](https://github.com/1gemingzi/Android-Interview-test/issues/32)
 
 ## 响应式编程
-1. rxjava
-2. 
+1. [rxjava](https://github.com/1gemingzi/Android-Interview-test/issues/33)
 
 ## 事件总线
-1. eventbus
-2. 
+1. [eventbus](https://github.com/1gemingzi/Android-Interview-test/issues/34)
 
 ## 进程通信
-1. 广播？
+1. [广播？](https://github.com/1gemingzi/Android-Interview-test/issues/35)
 
 # 安卓系统
 ## connectivityservice
-1. iptables 五表五链
-2. netd  与dns的交互
-3. wifi  扫描流程
-4. wifi  重连机制
+1. [iptables 五表五链](https://github.com/1gemingzi/Android-Interview-test/issues/36)
+    + [mangle表中设置的mark在哪里使用](https://github.com/1gemingzi/Android-Interview-test/issues/37)
+3. [netd  与dns的交互](https://github.com/1gemingzi/Android-Interview-test/issues/38)
+4. [wifi  扫描流程](https://github.com/1gemingzi/Android-Interview-test/issues/39)
+5. [wifi  重连机制](https://github.com/1gemingzi/Android-Interview-test/issues/40)
 
 ## packagesmanagerservice
-1. so库如何处理
+1. [so库如何处理](https://github.com/1gemingzi/Android-Interview-test/issues/41)
 2. 
 
 ## activitymanagerservice
-1. activity拉起流程
+1. [activity拉起流程](https://github.com/1gemingzi/Android-Interview-test/issues/42)
 
 ## 编译系统
 
 ## 进程间通信
-1. binder
+1. [binder](https://github.com/1gemingzi/Android-Interview-test/issues/43)
 2. 
 
 ## 虚拟机
-1. 各个版本虚拟机的变更？
+1. [各个版本虚拟机的变更？](https://github.com/1gemingzi/Android-Interview-test/issues/44)
 
 # java
 
 ## 数据结构
-1. HashMap
+1. [HashMap](https://github.com/1gemingzi/Android-Interview-test/issues/45)
+2. [blockqueue](https://github.com/1gemingzi/Android-Interview-test/issues/46)
+3. [优先队列](https://github.com/1gemingzi/Android-Interview-test/issues/47)
 
 ## 多线程
-1. 保证线程安全的方式
-    + retreenlock的实现原理是什么？ 锁的可重入性？
+1. [保证线程安全的方式](https://github.com/1gemingzi/Android-Interview-test/issues/48)
+    + [retreenlock的实现原理是什么？ 锁的可重入性？](https://github.com/1gemingzi/Android-Interview-test/issues/49)
     
 
-2. 异步处理的方式
-3. 乐观锁和悲观锁是什么区别？
+2. [异步处理的方式](https://github.com/1gemingzi/Android-Interview-test/issues/50)
+3. [乐观锁和悲观锁是什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/51)
 
 ## 虚拟机
-1. GC算法
-    + GC root有哪些
+1. [GC算法](https://github.com/1gemingzi/Android-Interview-test/issues/52)
+    + [GC root有哪些](https://github.com/1gemingzi/Android-Interview-test/issues/53)
 
 
 ## 面向对象
-1. 内部类和匿名内部类有什么区别？
+1. [内部类和匿名内部类有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/54)
 
 # 计算机网络
-1. 从浏览器输入url之后的过程
-2. https的加密
-3. ipv4和ipv6的区别
+1. [从浏览器输入url之后的过程](https://github.com/1gemingzi/Android-Interview-test/issues/55)
+2. [https的加密](https://github.com/1gemingzi/Android-Interview-test/issues/56)
+3. [ipv4和ipv6的区别](https://github.com/1gemingzi/Android-Interview-test/issues/57)
 
 # 系统设计
 
 # 数据结构与算法
-1. 链表与数组 相应的处理方式
-2. 平衡二叉树的深度怎么计算
-2. 排序算法 -- 快排
+1. [链表与数组 相应的处理方式](https://github.com/1gemingzi/Android-Interview-test/issues/58)
+2. [平衡二叉树的深度怎么计算](https://github.com/1gemingzi/Android-Interview-test/issues/59)
+2. [排序算法 -- 快排](https://github.com/1gemingzi/Android-Interview-test/issues/60)
 
 # 数据库
 
 # c/c++
+
+# 对行业的热爱
+1. [业余提升能力的方式](https://github.com/1gemingzi/Android-Interview-test/issues/61)
+2. [近期谷歌发布安卓特性更新](https://github.com/1gemingzi/Android-Interview-test/issues/62)
+3. [有什么自己实际做的应用在使用了吗](https://github.com/1gemingzi/Android-Interview-test/issues/63)
