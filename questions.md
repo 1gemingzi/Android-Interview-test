@@ -2,11 +2,12 @@
 ## ui  
 1. [能讲一讲自定义控件吗？](https://github.com/1gemingzi/Android-Interview-test/issues/1)
 2. [activity的生命周期是什么？](https://github.com/1gemingzi/Android-Interview-test/issues/2)
-3. [recycleview的考察？](https://github.com/1gemingzi/Android-Interview-test/issues/3)
-    + 缓存机制？
+3. [activity生命周期的作用和意义，各个生命周期方法里一般适合做什么操作？](https://github.com/1gemingzi/Android-Interview-test/issues/65)
+4. [recycleview的考察？](https://github.com/1gemingzi/Android-Interview-test/issues/3)
+    + 缓存机制？缓存的迭代算法是什么？
     + 局部刷新？
     + 滑动冲突
-4. [listview的使用，及reclyview的区别](https://github.com/1gemingzi/Android-Interview-test/issues/4)
+5. [listview的使用，及reclyview的区别](https://github.com/1gemingzi/Android-Interview-test/issues/4)
 4. [view的事件分发？](https://github.com/1gemingzi/Android-Interview-test/issues/5)
 5. [surfaceview的使用？和textview有什么不一样？](https://github.com/1gemingzi/Android-Interview-test/issues/6)
 6. [fragment的考察](https://github.com/1gemingzi/Android-Interview-test/issues/7)
@@ -19,10 +20,13 @@
     + 加载大图片
 8. [动画的种类？区别？](https://github.com/1gemingzi/Android-Interview-test/issues/9)
 9. [activity a跳转b的生命周期变化？按下back键生命周期变化？](https://github.com/1gemingzi/Android-Interview-test/issues/20)
+10. [适配各尺寸屏幕的经验？](https://github.com/1gemingzi/Android-Interview-test/issues/72)
+11. [图片压缩处理常用方法？](https://github.com/1gemingzi/Android-Interview-test/issues/73)
 
-## 内存泄漏
+## 异常处理
 1. [activity使用handler有什么样的问题？解决方法？](https://github.com/1gemingzi/Android-Interview-test/issues/10)
-2. [检测工具leakcanary使用？实现原理](https://github.com/1gemingzi/Android-Interview-test/issues/11)
+2. [内存泄漏检测工具leakcanary使用？实现原理](https://github.com/1gemingzi/Android-Interview-test/issues/11)
+3. [anr/oom的异常问题处理经验？定位anr发生的位置?](https://github.com/1gemingzi/Android-Interview-test/issues/66)
 
 ## 插件化  
 1. [插件化的框架以及原理](https://github.com/1gemingzi/Android-Interview-test/issues/12)
@@ -68,6 +72,9 @@
 ## 进程通信
 1. [广播？](https://github.com/1gemingzi/Android-Interview-test/issues/35)
 
+## 编译打包
+1. [写过的打包的gradle插件？](https://github.com/1gemingzi/Android-Interview-test/issues/70)
+
 # 安卓系统
 ## connectivityservice
 1. [iptables 五表五链](https://github.com/1gemingzi/Android-Interview-test/issues/36)
@@ -75,6 +82,8 @@
 3. [netd  与dns的交互](https://github.com/1gemingzi/Android-Interview-test/issues/38)
 4. [wifi  扫描流程](https://github.com/1gemingzi/Android-Interview-test/issues/39)
 5. [wifi  重连机制](https://github.com/1gemingzi/Android-Interview-test/issues/40)
+6. [安卓wifi漫游情况](https://github.com/1gemingzi/Android-Interview-test/issues/74)
+7. [能从系统层对http请求进行拦截吗?](https://github.com/1gemingzi/Android-Interview-test/issues/71)
 
 ## packagesmanagerservice
 1. [so库如何处理](https://github.com/1gemingzi/Android-Interview-test/issues/41)
@@ -106,6 +115,7 @@
 
 2. [异步处理的方式](https://github.com/1gemingzi/Android-Interview-test/issues/50)
 3. [乐观锁和悲观锁是什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/51)
+4. [在什么情况下使用线程池？](https://github.com/1gemingzi/Android-Interview-test/issues/64)
 
 ## 虚拟机
 1. [GC算法](https://github.com/1gemingzi/Android-Interview-test/issues/52)
@@ -118,7 +128,10 @@
 # 计算机网络
 1. [从浏览器输入url之后的过程](https://github.com/1gemingzi/Android-Interview-test/issues/55)
 2. [https的加密](https://github.com/1gemingzi/Android-Interview-test/issues/56)
-3. [ipv4和ipv6的区别](https://github.com/1gemingzi/Android-Interview-test/issues/57)
+3. [http如何发起长连接？](https://github.com/1gemingzi/Android-Interview-test/issues/68)
+4. [http的常用状态码分别是什么意义](https://github.com/1gemingzi/Android-Interview-test/issues/69)
+4. [ipv4和ipv6的区别](https://github.com/1gemingzi/Android-Interview-test/issues/57)
+5. [tcp的三次握手？](https://github.com/1gemingzi/Android-Interview-test/issues/67)
 
 # 系统设计
 
@@ -130,6 +143,8 @@
 # 数据库
 
 # c/c++
+1. [预处理的各种指令是语句吗？](https://github.com/1gemingzi/Android-Interview-test/issues/75)
+2. [变量的声明和定义有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/76)
 
 # 对行业的热爱
 1. [业余提升能力的方式](https://github.com/1gemingzi/Android-Interview-test/issues/61)
