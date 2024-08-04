@@ -75,6 +75,15 @@
 ## 编译打包
 1. [写过的打包的gradle插件？](https://github.com/1gemingzi/Android-Interview-test/issues/70)
 
+## kotlin
+1、[kotlin与java相比的优势有哪些？](https://github.com/1gemingzi/Android-Interview-test/issues/77)
+2、[解释一下kotlin中的空安全机制](https://github.com/1gemingzi/Android-Interview-test/issues/78)
+3、[什么是委托属性？有哪些应用场景](https://github.com/1gemingzi/Android-Interview-test/issues/79)
+4、[简要说一下什么是协程？如何使用？](https://github.com/1gemingzi/Android-Interview-test/issues/80)
+    + [协程底层实现的原理简要说下？](https://github.com/1gemingzi/Android-Interview-test/issues/81)
+    + [协程挂起和恢复是如何实现的](https://github.com/1gemingzi/Android-Interview-test/issues/82)
+    + [相比于线程，协程有哪些有异同](https://github.com/1gemingzi/Android-Interview-test/issues/83)
+
 # 安卓系统
 ## connectivityservice
 1. [iptables 五表五链](https://github.com/1gemingzi/Android-Interview-test/issues/36)
@@ -91,6 +100,10 @@
 
 ## activitymanagerservice
 1. [activity拉起流程](https://github.com/1gemingzi/Android-Interview-test/issues/42)
+
+## windowmanagerservice
+1. [ui刷新绘制流程](https://github.com/1gemingzi/Android-Interview-test/issues/64)
+2. [window有哪几种类型](https://github.com/1gemingzi/Android-Interview-test/issues/65)
 
 ## 编译系统
 
