@@ -83,6 +83,17 @@
     + [协程底层实现的原理简要说下？](https://github.com/1gemingzi/Android-Interview-test/issues/81)
     + [协程挂起和恢复是如何实现的](https://github.com/1gemingzi/Android-Interview-test/issues/82)
     + [相比于线程，协程有哪些有异同](https://github.com/1gemingzi/Android-Interview-test/issues/83)
+5、[kotlin中流一般用于什么场景？冷流和热流的区别？](https://github.com/1gemingzi/Android-Interview-test/issues/90)
+
+## 音视频
+1、[medialplayer和soundpool有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/84)
+2、[exoplayer想必mediaplayer有什么优势？](https://github.com/1gemingzi/Android-Interview-test/issues/85)
+
+## jetpack-compose
+1、[livedata如何感知生命周期，需要取消注册吗](https://github.com/1gemingzi/Android-Interview-test/issues/86)
+2、[livedata的postValue和setValue有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/87)
+3、[livedata粘性事件的原理，如何防止倒灌？](https://github.com/1gemingzi/Android-Interview-test/issues/88)
+4、[viewmodel是如何保存和恢复信息的？](https://github.com/1gemingzi/Android-Interview-test/issues/89)
 
 # 安卓系统
 ## connectivityservice
