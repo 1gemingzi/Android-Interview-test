@@ -84,6 +84,8 @@
     + [协程挂起和恢复是如何实现的](https://github.com/1gemingzi/Android-Interview-test/issues/82)
     + [相比于线程，协程有哪些有异同](https://github.com/1gemingzi/Android-Interview-test/issues/83)
 5、[kotlin中流一般用于什么场景？冷流和热流的区别？](https://github.com/1gemingzi/Android-Interview-test/issues/90)
+6、[简单说下kotlin中的函数式编程](https://github.com/1gemingzi/Android-Interview-test/issues/91)
+7、[说下对内联函数、高阶函数、扩展函数的认识](https://github.com/1gemingzi/Android-Interview-test/issues/93)
 
 ## 音视频
 1、[medialplayer和soundpool有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/84)
@@ -94,6 +96,7 @@
 2、[livedata的postValue和setValue有什么区别？](https://github.com/1gemingzi/Android-Interview-test/issues/87)
 3、[livedata粘性事件的原理，如何防止倒灌？](https://github.com/1gemingzi/Android-Interview-test/issues/88)
 4、[viewmodel是如何保存和恢复信息的？](https://github.com/1gemingzi/Android-Interview-test/issues/89)
+5、[mvvm相较于mvc、mvp有哪些优点和缺点](https://github.com/1gemingzi/Android-Interview-test/issues/92)
 
 # 安卓系统
 ## connectivityservice
